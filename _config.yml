@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   @victortokaito's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sleepydogpro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://averagegatsby.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: victortokaito
 github_username: victortokaito
 instagram_username: victortokaito
